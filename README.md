@@ -1,7 +1,13 @@
 # Naive-Bayes-Classifier
 
-Spam data is taken from University of California, Irvine.
+
+###### Goal: 
+
 Naive Bayes Classifier(Bernoulli, Multinomial, Guassian) is used for Spam detection using sklearn.
+
+###### Dataset:
+
+Spam data is taken from University of California, Irvine.
 
 ###### Observations:
 
